@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/database/migration/0001_initial.up.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/database/migration/0002_initial.up.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/database/migration/0004_initial.up.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/database/migration/0005_initial.up.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/database/migration/0006_initial.up.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/helper/helper.go" dialect="GenericSQL" />
+  </component>
+</project>
